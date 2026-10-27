@@ -78,6 +78,7 @@ internal sealed class MainForm : Form
         this.preview = preview;
         SuspendLayout();
         Text = "LightTap · 便携连点器";
+        Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath) ?? SystemIcons.Application;
         AutoScaleDimensions = new(96, 96);
         AutoScaleMode = AutoScaleMode.Dpi;
         Font = new("Microsoft YaHei UI", 9.5f);

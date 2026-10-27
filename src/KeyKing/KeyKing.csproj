@@ -9,8 +9,9 @@
     <AssemblyName>LightTap</AssemblyName>
     <AssemblyTitle>LightTap</AssemblyTitle>
     <Product>LightTap</Product>
+    <ApplicationIcon>..\..\assets\LightTap.ico</ApplicationIcon>
     <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
-    <Version>0.5.0</Version>
+    <Version>0.5.1</Version>
     <Description>LightTap 便携连点器</Description>
   </PropertyGroup>
 

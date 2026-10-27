@@ -15,7 +15,7 @@
 
 ## 下载和运行
 
-下载 [`LightTap.exe`](release/LightTap.exe) 后双击运行。设置和录制库保存在 EXE 同目录的 `LightTapData` 文件夹。
+从 [GitHub Releases](https://github.com/Teriss/LightTap/releases/latest) 下载 `LightTap.exe` 后双击运行。设置和录制库保存在 EXE 同目录的 `LightTapData` 文件夹。
 
 ## 从源码构建
 
